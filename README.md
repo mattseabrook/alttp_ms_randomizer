@@ -3,6 +3,7 @@
   - [alttp](#alttp)
   - [logic](#logic)
   - [items](#items)
+- [Reverse-Engineer](#reverse-engineer)
 
 # Config
 
@@ -19,3 +20,7 @@
 #        'OneHundredRupees' => 1,
 #        'ThreeHundredRupees' => 5,
 ```
+
+# Reverse-Engineer
+
+- The boilerplate/framework used is `Laravel`
